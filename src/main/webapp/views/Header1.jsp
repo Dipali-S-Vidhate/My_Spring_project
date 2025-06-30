@@ -71,7 +71,7 @@
         <a href="/Demo">Home</a>
         <a href="/signup">Student Register</a>
         <a href= "/signIN">Student Login</a>
-         <a href="/signIN">Admin Login</a>
+         <a href="/signIN">Admin  Login</a>
       
         <a href="#">About us</a>
     </div>
