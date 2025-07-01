@@ -59,13 +59,13 @@ public class Mycontroller {
 	public String signin() {
 		return "signin";
 	}
-	
-	@RequestMapping("/AdminSignIn")
+
+/*	@RequestMapping("/AdminSignIn")
 	public String adminsignin()
 	{
 		return "AdminSignin";
 	}
-	
+	*/
 	@GetMapping("/checkSignIn")
 	public String checkSignIn(String Type,String email,String password,Model model) 
 	{
