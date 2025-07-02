@@ -28,6 +28,7 @@
             padding: 14px 20px;
             text-decoration: none;
             font-size: 18px;
+            
         }
 
         .navbar a:hover {
@@ -68,12 +69,12 @@
 </head>
 <body>
    <div class="navbar">
+     
         <a href="/Demo">Home</a>
         <a href="/signup">Student Register</a>
-        <a href= "/signIN">Student Login</a>
-         <a href="/signIN">Admin  Login</a>
-      
-        <a href="#">About us</a>
+        <a href= "/signIN"> Login</a>
+        <a href="/AboutUs">About us</a>
+       
     </div>
 
 </body>

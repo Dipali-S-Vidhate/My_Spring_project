@@ -195,7 +195,11 @@ public class Mycontroller {
 		return "Students/MyProfile";
 	}
 
-		
+	@RequestMapping("/AboutUs")
+	public String aboutus()
+	{
+		return "AboutUs";
+	}	
 
 	
 	

@@ -116,8 +116,9 @@ ${message}
         <option value="">select</option>
           <option value="Admin">Admin</option>
         <option value="Student">Student</option>
-        <br>
-        <br>
+        </select>
+        </div>
+        
         
        <br>
         <label for="email">Email:</label>
